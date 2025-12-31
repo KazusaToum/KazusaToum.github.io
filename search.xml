@@ -4,6 +4,32 @@
   
     
     <entry>
+      <title>2025总结</title>
+      <link href="/2025/12/31/2025%E6%80%BB%E7%BB%93/"/>
+      <url>/2025/12/31/2025%E6%80%BB%E7%BB%93/</url>
+      
+        <content type="html"><![CDATA[<p>  这几天想起了江南, 或者说说是姬野,阿苏勒或是路明非等人, 心中总是有一种莫名的悸动. 再转眼回首,已经是2025年的最后一天了. 想了很久, 终于下定决心书写这篇博客. 这也算是我如今为数不多的坚持吧, 只为写给未来某一天的自己.</p><p>  我感受到了他们的那种孤独压抑, 似乎能看见他们眼中的不屈与执着– “过去的心我已经丢失它太久了”.这大学四年, 算是一段颠沛流离的生活, 充斥无奈与抱怨. 而我的脚步似乎也在这几年画上了暂停号, 不曾前进, 在原地腐败直至今日. 活脱脱成了一条又臭又硬的蛆.</p><p>  也许是在沉睡, 我是如此安慰自己, 但又何时能醒过来呢? 不得不说, 时间不会等人, 我又还要多少时间呢. 假装努力的样子看起来是真的恶心啊, 骗别人可以, 别把自己也骗了.</p><p>  希望未来, 新的一年有所坚持, 带着野心怒火点燃这个世界. For nothing, just burn it.</p><p>最后记录一下写博客几个每次都可能查阅的点吧.</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br></pre></td><td class="code"><pre><span class="line">关于picgo图床</span><br><span class="line">注意更新token?以及设置代理, 网址+端口</span><br><span class="line"></span><br><span class="line">上传指令:</span><br><span class="line">清理缓存</span><br><span class="line">hexo clean</span><br><span class="line">生成静态网页 (Generate)</span><br><span class="line">hexo g</span><br><span class="line">部署/上传 (Deploy，推送到 GitHub 或服务器)</span><br><span class="line">hexo d</span><br></pre></td></tr></table></figure>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/2025/03/09/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86%E8%AF%BE%E7%A8%8B%E8%AE%BE%E8%AE%A1/"/>
+      <url>/2025/03/09/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86%E8%AF%BE%E7%A8%8B%E8%AE%BE%E8%AE%A1/</url>
+      
+        <content type="html"><![CDATA[<h1 id="编译原理课程设计"><a href="#编译原理课程设计" class="headerlink" title="编译原理课程设计"></a>编译原理课程设计</h1><h2 id="任务目标"><a href="#任务目标" class="headerlink" title="任务目标"></a>任务目标</h2><p>设计并实现一个 Pascal 到 C 语言的编译器，该编译器能够将简单的 Pascal 代码转换为等效的 C 语言代码。</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>新年总结</title>
       <link href="/2025/02/01/2025-2-1-%E6%96%B0%E5%B9%B4%E6%80%BB%E7%BB%93/"/>
       <url>/2025/02/01/2025-2-1-%E6%96%B0%E5%B9%B4%E6%80%BB%E7%BB%93/</url>
